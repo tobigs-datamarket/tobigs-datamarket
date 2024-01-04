@@ -19,6 +19,7 @@
 <pre>
 <a href="http://www.datamarket.kr/xe/">Tobigs 공식 홈페이지</a>
 <a href="http://www.datamarket.kr/xe/board_pdzw77">Tobigs 컨퍼런스 프로젝트</a>
+<a href="https://tobigs-datamarket.github.io/">Tobigs 팀블로그 github page</a>
 </pre>
 
 
