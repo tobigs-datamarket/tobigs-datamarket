@@ -2,7 +2,7 @@
 
 </div>
 
-[![Blog Badge](http://img.shields.io/badge/-TobigsTeam-black?style=flat-square&logo=github&link=https://github.com/Tobigs-team)](https://github.com/Tobigs-team) 
+[![Blog Badge](http://img.shields.io/badge/-TobigsTeam-black?style=flat-square&logo=github&link=https://tobigs-datamarket.github.io/)](https://tobigs-datamarket.github.io/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:datamarket.tobigs@gmail.com)](mailto:datamarket.tobigs@gmail.com)
 
 </div>
